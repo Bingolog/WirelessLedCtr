@@ -1,0 +1,2 @@
+# WirelessLedCtr
+利用WiFi远程控制本地LED灯亮灭，本项目作为服务器端，client连接到服务器后通过client app控制操作，服务器端控制本地LED的亮灭并返回LED状态给所有的client,可连接多个client。
